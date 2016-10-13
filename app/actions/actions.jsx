@@ -24,7 +24,3 @@ export var toggleTodo = (id) => {
     id
   }
 }
-
-//toggleShowCompleted 
-//toggleTodo(id)
-
